@@ -3,7 +3,6 @@
 This is a Pytorch implementation of Time-Series Forecasting Models based Transformer: "Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting".
 
 
-In long-term forecasting, Autoformer achieves SOTA, with a **38% relative improvement** on six benchmarks, covering five practical applications: **energy, traffic, economics, weather and disease**.
 
 
 
